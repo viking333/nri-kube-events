@@ -1,4 +1,4 @@
-module github.com/newrelic/nri-kube-events
+module github.com/viking333/nri-kube-events
 
 go 1.22
 
